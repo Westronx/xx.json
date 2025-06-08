@@ -3,22 +3,26 @@
     {
       "key": "@Kei",
       "createdAt": "2025-06-08T16:18:22.061Z",
-      "duration": "unlimited"
+      "duration": "unlimited",
+      "deviceId": "zdev-6c89d777"
     },
     {
       "key": "@Westron",
       "createdAt": "2025-06-08T16:18:22.061Z",
-      "duration": "unlimited"
+      "duration": "unlimited",
+      "deviceId": null
     },
     {
       "key": "Zynwex",
       "createdAt": "2025-06-08T16:26:09.975Z",
-      "duration": "1"
+      "duration": "1",
+      "deviceId": null
     },
     {
       "key": "DenemeKey",
       "createdAt": "2025-06-08T17:51:13.711Z",
-      "duration": "1"
+      "duration": "1",
+      "deviceId": null
     }
   ]
 }
