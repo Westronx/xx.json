@@ -1,3 +1,19 @@
 {
-  "keys": ["@Kei", "@Westron"]
+  "keys": [
+    {
+      "key": "@Kei",
+      "createdAt": "2025-06-08T16:18:22.061Z",
+      "duration": "unlimited"
+    },
+    {
+      "key": "@Westron",
+      "createdAt": "2025-06-08T16:18:22.061Z",
+      "duration": "unlimited"
+    },
+    {
+      "key": "@Kex",
+      "createdAt": "2025-06-08T16:18:44.640Z",
+      "duration": "1d"
+    }
+  ]
 }
