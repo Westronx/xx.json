@@ -11,6 +11,12 @@
       "createdAt": "2025-06-08T21:21:07.644Z",
       "duration": "unlimited",
       "deviceId": "zdev-3686e4e8"
+    },
+    {
+      "key": "DENEME123",
+      "createdAt": "2025-06-08T22:38:42.054Z",
+      "duration": "1",
+      "deviceId": null
     }
   ]
 }
