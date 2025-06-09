@@ -11,6 +11,12 @@
       "createdAt": "2025-06-09T10:19:09.519Z",
       "duration": "unlimited",
       "deviceId": "zdev-38b08066"
+    },
+    {
+      "key": "Azeagain",
+      "createdAt": "2025-06-09T11:01:14.010Z",
+      "duration": "7",
+      "deviceId": null
     }
   ]
 }
