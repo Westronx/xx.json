@@ -13,20 +13,6 @@
       "duration": "unlimited",
       "deviceId": "zdev-38b08066",
       "level": "standard"
-    },
-    {
-      "key": "Azeagain",
-      "createdAt": "2025-06-09T11:01:14.010Z",
-      "duration": "7",
-      "deviceId": "zdev-5b1b0a6b",
-      "level": "standard"
-    },
-    {
-      "key": "Deneme31",
-      "createdAt": "2025-06-09T18:26:07.700Z",
-      "duration": "1",
-      "level": "premium",
-      "deviceId": "zdev-172e0baa"
     }
   ]
 }
