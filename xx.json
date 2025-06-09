@@ -5,6 +5,12 @@
       "createdAt": "2025-06-08T16:18:22.061Z",
       "duration": "unlimited",
       "deviceId": "zdev-6c89d777"
+    },
+    {
+      "key": "westron",
+      "createdAt": "2025-06-09T10:19:09.519Z",
+      "duration": "unlimited",
+      "deviceId": null
     }
   ]
 }
