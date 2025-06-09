@@ -22,11 +22,11 @@
       "level": "standard"
     },
     {
-      "key": "Deneme123",
-      "createdAt": "2025-06-09T18:24:58.806Z",
+      "key": "Deneme31",
+      "createdAt": "2025-06-09T18:26:07.700Z",
       "duration": "1",
       "level": "standard",
-      "deviceId": "zdev-205da7c9"
+      "deviceId": null
     }
   ]
 }
