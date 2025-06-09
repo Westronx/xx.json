@@ -4,19 +4,22 @@
       "key": "@Kei",
       "createdAt": "2025-06-08T16:18:22.061Z",
       "duration": "unlimited",
-      "deviceId": "zdev-6c89d777"
+      "deviceId": "zdev-6c89d777",
+      "level": "standard"
     },
     {
       "key": "westron",
       "createdAt": "2025-06-09T10:19:09.519Z",
       "duration": "unlimited",
-      "deviceId": "zdev-38b08066"
+      "deviceId": "zdev-38b08066",
+      "level": "standard"
     },
     {
       "key": "Azeagain",
       "createdAt": "2025-06-09T11:01:14.010Z",
       "duration": "7",
-      "deviceId": "zdev-5b1b0a6b"
+      "deviceId": "zdev-5b1b0a6b",
+      "level": "standard"
     }
   ]
 }
