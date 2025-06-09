@@ -20,6 +20,13 @@
       "duration": "7",
       "deviceId": "zdev-5b1b0a6b",
       "level": "standard"
+    },
+    {
+      "key": "Deneme",
+      "createdAt": "2025-06-09T18:14:07.047Z",
+      "duration": "1",
+      "level": "standard",
+      "deviceId": null
     }
   ]
 }
