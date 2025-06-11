@@ -20,6 +20,13 @@
       "duration": "unlimited",
       "level": "premium",
       "deviceId": "zdev-172e0baa"
+    },
+    {
+      "key": "lycr",
+      "createdAt": "2025-06-11T14:40:35.580Z",
+      "duration": "1",
+      "level": "standard",
+      "deviceId": null
     }
   ]
 }
