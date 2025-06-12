@@ -27,6 +27,13 @@
       "duration": "1",
       "level": "premium",
       "deviceId": null
+    },
+    {
+      "key": "Azad",
+      "createdAt": "2025-06-12T20:25:52.913Z",
+      "duration": "1",
+      "level": "standard",
+      "deviceId": null
     }
   ]
 }
