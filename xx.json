@@ -27,6 +27,13 @@
       "duration": "7",
       "level": "premium",
       "deviceId": "zdev-3640b2b5"
+    },
+    {
+      "key": "Can",
+      "createdAt": "2025-06-12T17:23:18.458Z",
+      "duration": "1",
+      "level": "premium",
+      "deviceId": null
     }
   ]
 }
