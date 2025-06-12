@@ -27,13 +27,6 @@
       "duration": "1",
       "level": "premium",
       "deviceId": null
-    },
-    {
-      "key": "Azaf",
-      "createdAt": "2025-06-12T20:25:38.224Z",
-      "duration": "1",
-      "level": "standard",
-      "deviceId": null
     }
   ]
 }
