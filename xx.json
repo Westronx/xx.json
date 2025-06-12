@@ -27,6 +27,13 @@
       "duration": "1",
       "level": "premium",
       "deviceId": "zdev-6fa5489f"
+    },
+    {
+      "key": "falcon",
+      "createdAt": "2025-06-12T17:56:46.098Z",
+      "duration": "1",
+      "level": "premium",
+      "deviceId": null
     }
   ]
 }
