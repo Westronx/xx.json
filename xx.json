@@ -22,11 +22,11 @@
       "deviceId": "zdev-172e0baa"
     },
     {
-      "key": "lycr",
-      "createdAt": "2025-06-11T14:40:35.580Z",
-      "duration": "1",
-      "level": "standard",
-      "deviceId": "zdev-22f2acdd"
+      "key": "Falcon",
+      "createdAt": "2025-06-12T17:13:17.210Z",
+      "duration": "7",
+      "level": "premium",
+      "deviceId": null
     }
   ]
 }
